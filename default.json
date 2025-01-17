@@ -12,6 +12,7 @@
   "separateMajorMinor": false,
   "rollbackPrs": true,
   "osvVulnerabilityAlerts": true,
+  "pinDigests": false,
   "lockFileMaintenance": {
     "enabled": true
   }
