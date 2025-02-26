@@ -1,6 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:best-practices"],
+  "extends": [
+    "config:best-practices"
+  ],
   "automerge": true,
   "automergeType": "branch",
   "automergeStrategy": "squash",
@@ -15,5 +17,13 @@
   "pinDigests": false,
   "lockFileMaintenance": {
     "enabled": true
-  }
+  },
+  "packageRules": [
+    {
+      "matchDatasources": [
+        "docker"
+      ],
+      "pinDigests": true
+    }
+  ]
 }
