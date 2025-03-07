@@ -24,6 +24,12 @@
         "docker"
       ],
       "pinDigests": false
+    },
+    {
+      "matchDepTypes": [
+        "action"
+      ],
+      "pinDigests": false
     }
   ]
 }
