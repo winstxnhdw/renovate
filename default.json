@@ -30,6 +30,12 @@
         "action"
       ],
       "pinDigests": false
+    },
+    {
+      "matchPackageNames": [
+        "*"
+      ],
+      "rangeStrategy": "replace"
     }
   ]
 }
