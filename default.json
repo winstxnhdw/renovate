@@ -23,7 +23,7 @@
       "matchDatasources": [
         "docker"
       ],
-      "pinDigests": true
+      "pinDigests": false
     }
   ]
 }
