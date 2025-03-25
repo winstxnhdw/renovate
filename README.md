@@ -1,6 +1,6 @@
 # renovate
 
-This repository contains my default [Renovate](https://github.com/renovatebot/renovate) config.
+This repository contains my [Renovate](https://github.com/renovatebot/renovate) configs.
 
 ## Usage
 
