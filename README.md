@@ -7,5 +7,5 @@ This repository contains my [Renovate](https://github.com/renovatebot/renovate) 
 Create the following `renovate.json` file.
 
 ```bash
-printf '{\n    "extends": [ "github>winstxnhdw/renovate" ]\n}\n' > .github/renovate.json
+printf '{\n    "extends": ["github>winstxnhdw/renovate"]\n}\n' > .github/renovate.json
 ```
