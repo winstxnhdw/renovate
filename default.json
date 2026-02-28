@@ -23,5 +23,8 @@
 			"matchDepTypes": ["action"],
 			"pinDigests": false
 		}
-	]
+	],
+	"precommit": {
+		"enabled": true
+	}
 }
