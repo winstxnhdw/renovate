@@ -27,4 +27,10 @@
 	"precommit": {
 		"enabled": true
 	}
+  	"cargo": {
+  		"fileMatch": ["(^|/)Cargo\\.toml$"],
+    	"lockFileMaintenance": {
+      		"enabled": true
+    	}
+  	}
 }
