@@ -15,7 +15,7 @@
 	"pinDigests": false,
 	"lockFileMaintenance": { "enabled": true },
 	"precommit": { "enabled": true },
-	"cargo": { "fileMatch": ["(^|/)Cargo\\.toml$"] }
+	"cargo": { "fileMatch": ["(^|/)Cargo\\.toml$"] },
 	"packageRules": [
 		{
 			"matchDatasources": ["docker"],
