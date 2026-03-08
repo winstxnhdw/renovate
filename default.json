@@ -14,7 +14,7 @@
 	"osvVulnerabilityAlerts": true,
 	"pinDigests": false,
 	"lockFileMaintenance": { "enabled": true },
-	"precommit": { "enabled": true },
+	"pre-commit": { "enabled": true },
 	"packageRules": [
 		{
 			"matchDatasources": ["docker"],
